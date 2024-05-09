@@ -1,0 +1,12 @@
+Please select Disease/Emergency by corresponding number: 
+ 1) Fever 
+ 2) Vomiting 
+ 3) Headache 
+ 4) Cold & Cough 
+ 5) Allergy 
+ 6) Joint Pain 
+ 7) Teeth 
+ 8) Skin Issue 
+ 9) Heart Problem 
+10) Surgery 
+END 

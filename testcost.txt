@@ -1,0 +1,8 @@
+    Test          |     Cost per test  |
+1) Blood test     |       200Rs        |
+2) Urine test     |       100Rs        |
+3) X-ray          |       100Rs        |
+4) Body Checkup   |       1000RS       |
+5) RTPCR          |       150RS        |
+6) MRI            |       500RS        |
+7) Ultrasound     |       200Rs        |

@@ -1,0 +1,73 @@
+Select by corresponding number prescribed by doctor:
+01) Antibiotics
+02) Antiallergic
+03) Antipyretic
+04) Drip
+05) Painkiller
+06) Sleeping pills
+07) Cough syrups
+08) Anti-Inflammatory drug
+09) Fungal infection
+10) Anti-anxiety
+11) Disinfectant
+12) Animal bite
+13) Antibacterial tubes (for wounds)
+END
+START01
+1) Amoxicillin                   |   4RS    |    6Rs   |  50
+2) Ciprofloxacin                 |   6Rs    |    9Rs   |  50
+3) Ofloxacin                     |   8Rs    |   10Rs   |  50
+END
+START02
+1) Cetirizine                    |   5Rs    |    6Rs   |  60
+2) Levocetirizine                |   6Rs    |    9Rs   |  50
+3) CPM (Chlorpheniramine Maleate)|   9Rs    |   12Rs   |  40
+END
+START03
+1) Paracetamol                   |   1Rs    |    2Rs   |  70
+2) Acetaminophen                 |   6Rs    |   10Rs   |  50
+END
+START04
+1) DNS                           |  25Rs    |   32Rs   |  20
+2) RL                            |  26Rs    |   35Rs   |  10
+3) D5                            |  18Rs    |   28Rs   |  10
+4) NS                            |  30Rs    |   40Rs   |  10
+END
+START05
+1) Diclofenac Sodium             |   3Rs    |    7Rs   |  60
+2) Paracetamol                   |   1Rs    |    2Rs   |  70
+END
+START06
+1) Alprex 0.5mg                  |   4Rs    |    6Rs   |  40
+2) Flurazepam                    |   6Rs    |    8Rs   |  30
+END
+START07
+1) Corax cough syrup             |   90Rs   |  110Rs   |  20
+2) Benadryl syrup                |  110Rs   |  150Rs   |  20
+END
+START08
+1) Mefenamic acid                |   2Rs    |    4Rs   |  30
+2) Brufen                        |   5Rs    |    6Rs   |  30
+END
+START09
+1) Fluconazole                   |   3Rs    |    5Rs   |  30
+2) Clotrimazole                  |   6Rs    |    9Rs   |  30
+3) Miconazole                    |   5Rs    |    8Rs   |  20
+END
+START10
+1) Fluoxetine                    |   3Rs    |    4Rs   |  15
+2) Paroxetine                    |   2Rs    |    3Rs   |  15
+END
+START11
+1) Savlon                        |  32Rs    |   44Rs   |  20
+2) Dettol                        |  28Rs    |   36Rs   |  20
+3) Surgical spirit               |  35Rs    |   50Rs   |  20
+END
+START12
+1) ARV (anti rabies vaccine)     | 193Rs    |  276Rs   |  15
+2) ASV (anti snake venom)        | 280Rs    |  400Rs   |  10
+END
+START13
+1) Betadine                      |  87Rs    |  100Rs   |  20
+2) Povidone Iodine Powder        |  46Rs    |   60Rs   |  15
+END 

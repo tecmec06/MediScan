@@ -1,0 +1,18 @@
+   Equipments        |   Cost    |  Stock
+1. Syringe           |    3Rs    |   100
+2. Gauze             |    4Rs    |   50
+3. Cotton(500gm)     |   80Rs    |   4
+4. Surgical gloves   |   15Rs    |   50 
+5. Forceps           |  350Rs    |   4
+6. Scissors          |  220Rs    |   4
+7. Stitches          |  350Rs    |   4
+8. Needle holder     |  475Rs    |   4
+9. Vantilator        |3,50,000Rs |   3
+10. Mask             |    3Rs    |   100
+11. Surgical cap     |    5Rs    |   100
+12. Apron            |  1200Rs   |   10
+13. Stethoscope      |   800Rs   |   4
+14. BP apparatus     |  2500Rs   |   4
+15. Oxygen cylinders |  6500Rs   |   3
+16. Beds             |  30,000Rs |   50
+17. Streachers       |  15000Rs  |   10

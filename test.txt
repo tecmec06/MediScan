@@ -1,0 +1,16 @@
+Select by corresponding number prescribed by doctor: 
+1) Blood test
+2) Urine test
+3) X-ray
+4) Body Checkup
+5) RTPCR
+6) MRI
+7) Ultrasound
+END
+400
+240
+500
+7000
+450
+2500
+750

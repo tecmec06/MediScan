@@ -1,0 +1,105 @@
+Select by corresponding number prescribed by doctor: 
+01) Antibiotics 
+02) Antiallergic 
+03) Antipyretic 
+04) Drip 
+05) Painkiller 
+06) Sleeping pills 
+07) Cough syrups 
+08) Anti-Inflammatory drug 
+09) Fungal infection 
+10) Anti-anxiety 
+11) Disinfectant 
+12) Animal bite 
+13) Antibacterial tubes (for wounds) 
+END
+START01
+1) Amoxicillin 
+2) Ciprofloxacin 
+3) Ofloxacin 
+END
+6
+9
+10
+START02
+1) Cetirizine 
+2) Levocetirizine 
+3) CPM (Chlorpheniramine Maleate) 
+END
+5
+9
+12
+START03
+1) Paracetamol 
+2) Acetaminophen 
+END
+2
+10
+START04
+1) DNS 
+2) RL 
+3) D5 
+4) NS 
+END
+32
+35
+28
+40
+START05
+1) Diclofenac Sodium 
+2) Paracetamol 
+END
+7
+2
+START06
+1) Alprex 0.5mg 
+2) Flurazepam 
+END
+6
+8
+START07
+1) Corax cough syrup 
+2) Benadryl syrup 
+END
+110
+150
+START08
+1) Mefenamic acid 
+2) Brufen 
+END
+4
+6
+START09
+1) Fluconazole 
+2) Clotrimazole 
+3) Miconazole 
+END
+5
+9
+8
+START10
+1) Fluoxetine 
+2) Paroxetine 
+END
+4
+3
+START11
+1) Savlon 
+2) Dettol 
+3) Surgical spirit 
+END
+44
+36
+50
+START12
+1) ARV (anti rabies vaccine) 
+2) ASV (anti snake venom) 
+END
+276
+400
+START13
+1) Betadine 
+2) Povidone Iodine Powder 
+END
+100
+60

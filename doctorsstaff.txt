@@ -1,0 +1,48 @@
+START1
+Physician:-
+Name:- Anuj Sharma
+Qualification:- M.B.B.S
+Experience:- 3 years
+Salary:- RS 70000
+Appiontment fee:- RS 500
+END
+START2
+Orthopediatrics:-
+Name:- Narendra Singh
+Qualification:- M.B.B.S and M.D and P.G
+Experience:- 6 years
+Salary:- RS 200000
+Appiontment fee:- RS 800
+END
+START3
+Dentist:-
+Name:- Prashant Tripathi
+Qualification:- B.D.S
+Experience:- 4 years
+Salary:- RS 150000
+Appiontment fee:- RS 500
+END
+START4
+Dermatologist:-
+Name:- Anurag Mishra
+Qualification:- M.B.B.S and M.D and P.G
+Experience:- 3 years
+Salary :- RS 70000 
+Appiontment fee:- RS 1000
+END
+START5
+Cardiologist:-
+Name:- Shivam Rai
+Qualification:- M.B.B.S and M.D and P.G 
+Experience:- 8 years
+Salary :- RS 200000
+Appiontment fee:- Rs 2000
+END
+START6
+Surgeon:-
+Name:- Ayog yadav
+Qualification:- M.B.B.S and P.G 
+Experience:- 5 years
+Salary:- RS 100000
+Surgery fee:- RS 100000 
+END 

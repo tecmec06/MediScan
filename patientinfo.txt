@@ -1,0 +1,91 @@
+START01
+Name - Anshuman Sharma
+Age - 25 years
+Sex - Male
+Address - Rajiv Chowk,New Delhi
+Contact Number - 9746251470
+Email - anshuman70@gmail.com
+Disease/Emergency - Cold & Cough
+Doctor Assigned - Physician - Anuj Sharma - Fee = Rs.500
+Last Appointment Date - 13/2/2022
+END
+13/2/2022
+500
+START02
+Name - Payal Srivastava
+Age - 19 years
+Sex - Female
+Address - Mujjafarnagar,UttarPradesh
+Contact Number - 6759252460
+Email - payalsri19@gmail.com
+Disease/Emergency - Skin Issue
+Doctor Assigned - Dermatologist - Anurag Mishra - Fee = Rs.1000
+Last Appointment Date - 13/2/2022
+END
+13/2/2022
+1000
+START03
+Name - Samay Raina
+Age - 26 years
+Sex - Male
+Address - Katni,MadhyaPradesh
+Contact Number - 9634132640
+Email - samayme@gmail.com
+Disease/Emergency - Joint Pain
+Doctor Assigned - Orthopediatrics - Narendra Singh - Fee = Rs.800
+Last Appointment Date - 1/1/2022
+END
+1/1/2022
+800
+START04
+Name - Brijesh Sharma
+Age - 45 years
+Sex - Male
+Address - Waranga,Maharashtra
+Contact Number - 8404862520
+Email - brijesh1@gmail.com
+Disease/Emergency - Surgery
+Doctor Assigned - Surgeon - Ayog yadav - Fee = Rs.1,00,000
+Last Appointment Date - 15/1/2022
+END
+15/1/2022
+100000
+START05
+Name - Priya Singh
+Age - 19 years
+Sex - Female
+Address - Near Assi Ghat,Varansi
+Contact Number - 9376215430
+Email - priya12@gmail.com
+Disease/Emergency - Vomiting
+Doctor Assigned - Physician - Anuj Sharma - Fee = Rs.500
+Last Appointment Date - 23/12/2021
+END
+23/12/2021
+500
+START06
+Name - Anshul Yadav
+Age - 35 years
+Sex - Male
+Address - Dwarka Sector21,New Delhi
+Contact Number - 9376354160
+Email - anshulyad@gmail.com
+Disease/Emergency - Teeth
+Doctor Assigned - Dentist - Prashant Tripathi - Fee = Rs.500
+Last Appointment Date - 26/3/2021
+END
+26/3/2021
+500
+START07
+Name - Smit Aghera
+Age - 18
+Sex - Male
+Address - Havlok Horizon
+Contact Number - 9999955555
+Email - smitaghera12345@gmail.com
+Disease/emergency - Headache 
+Doctor assigned - Physician - Anuj Sharma - Fee = Rs.500
+Last Appointment Date  - 13/3/2022
+END
+13/3/2022
+500

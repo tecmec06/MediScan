@@ -1,0 +1,73 @@
+Select by corresponding number prescribed by doctor:
+01) Antibiotics
+02) Antiallergic
+03) Antipyretic
+04) Drip
+05) Painkiller
+06) Sleeping pills
+07) Cough syrups
+08) Anti-Inflammatory drug
+09) Fungal infection
+10) Anti-anxiety
+11) Disinfectant
+12) Animal bite
+13) Antibacterial tubes (for wounds)
+END
+START01
+1) Amoxicillin                   |   2RS   |
+2) Ciprofloxacin                 |   3Rs   |
+3) Ofloxacin                     |   2Rs   |
+END
+START02
+1) Cetirizine                    |   1Rs   |
+2) Levocetirizine                |   3Rs   |
+3) CPM (Chlorpheniramine Maleate)|   3Rs   |
+END
+START03
+1) Paracetamol                   |   1Rs   |
+2) Acetaminophen                 |   4Rs   |
+END
+START04
+1) DNS                           |   7Rs   |
+2) RL                            |   9Rs   |
+3) D5                            |  10Rs   |
+4) NS                            |  10Rs   |
+END
+START05
+1) Diclofenac Sodium             |   4Rs   |
+2) Paracetamol                   |   1Rs   |
+END
+START06
+1) Alprex 0.5mg                  |   2Rs   |
+2) Flurazepam                    |   2Rs   |
+END
+START07
+1) Corax cough syrup             |  20Rs   |
+2) Benadryl syrup                |  40Rs   |
+END
+START08
+1) Mefenamic acid                |   2Rs   |
+2) Brufen                        |   1Rs   |
+END
+START09
+1) Fluconazole                   |   2Rs   |
+2) Clotrimazole                  |   3Rs   |
+3) Miconazole                    |   3Rs   |
+END
+START10
+1) Fluoxetine                    |   1Rs   |
+2) Paroxetine                    |   1Rs   |
+END
+START11
+1) Savlon                        |  12Rs   |
+2) Dettol                        |   8Rs   |
+3) Surgical spirit               |  15Rs   |
+END
+START12
+1) ARV (anti rabies vaccine)     |  83Rs   |
+2) ASV (anti snake venom)        | 120Rs   |
+END
+START13
+1) Betadine                      |  13Rs   |
+2) Povidone Iodine Powder        |  14Rs   |
+END 

@@ -1,0 +1,8 @@
+      Test        |    Profit per test   |
+1) Blood test     |        200Rs         |
+2) Urine test     |        140Rs         |
+3) X-ray          |        400Rs         |
+4) Body Checkup   |        6000Rs        |
+5) RTPCR          |        300Rs         |
+6) MRI            |        2000Rs        |
+7) Ultrasound     |        550Rs         |

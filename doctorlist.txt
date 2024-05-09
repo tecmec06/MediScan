@@ -1,0 +1,13 @@
+1) Physician - Anuj Sharma - Fee = Rs.500
+2) Orthopediatrics - Narendra Singh - Fee = Rs.800
+3) Dentist - Prashant Tripathi - Fee = Rs.500
+4) Dermatologist - Anurag Mishra - Fee = Rs.1000
+5) Cardiologist - Shivam Rai - Fee = Rs.2000
+6) Surgeon - Ayog yadav - Fee = Rs.1,00,000
+END
+500
+800
+500
+1000
+2000
+100000

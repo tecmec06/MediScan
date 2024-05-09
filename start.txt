@@ -1,0 +1,5 @@
+Please select by corresponding number:
+1) Patient Management
+2) Staff Management
+3) Medicine/Equipment/Tests Stock&Cost
+4) Income/Expense Statement

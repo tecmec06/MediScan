@@ -1,0 +1,293 @@
+START1
+Please select Profession by corresponding number:
+1)CMO
+2)ACMO
+3)Director
+4)Assistant Director
+END
+START11
+1)Gaurav Taneja
+END
+START111
+CMO(Chief Medical Officer)
+Name- Gaurav Taneja
+Education- MBBS
+Salary-200000 Rs
+Experience-8 years
+END
+START12
+1)Piyush Verma
+END
+START121
+ACMO
+NAME- Piyush Verma
+EDUCATION-MBBS And MD
+SALARY-150000
+EXPERIENCE-6 Years
+END
+START13
+1)Rakesh Verma
+END
+START131
+Director
+Name-Rakesh Verma
+Education-MBBS And MD/MS
+Salary-300000Rs
+Experience-15 years
+END
+START14
+1)Naveen Mishra
+END
+START141
+Assistant Director
+Name- Naveen Mishra
+Education-MBBS And MD/MS
+Salary-150000Rs
+Experience-4 years
+END
+START2
+1)Medical Officer
+END
+START21
+Select Medical Officer by corresponding number:
+(1)Namya Dinkar
+(2)Ravina Tandon 
+END
+START211
+Name- Namya Dinkar
+Education-MBBS 
+Salary-100000Rs
+Experience-1 years
+END
+START212
+Name- Ravina Tandon
+Education-MBBS 
+Salary-50000Rs
+Experience-9 months
+END
+START3
+1)Pharmacist
+2)lab Technician
+3)X Ray Technician
+4)ANM
+5)Staff Nurse
+6)Dark room Assistant
+7)Dai Assistant gynecologist
+END
+START31
+Select Pharmacist by corresponding number:
+(1)Sumit Singh
+(2)Dhruv Jaiswal
+END
+START311
+Name- Sumit Singh
+Education- B.Pharm
+Salary - 14000 Rs
+Experience - 5 years
+END
+START312
+Name- Dhruv Jaiswal
+Education- B.Pharm
+Salary - 14000 Rs
+Experience - 4 years
+END
+START32
+Select lab Technician by corresponding number:
+(1)Rohit Sharma
+(2)Vivek Tripathi
+END
+START321
+Name- Rohit Sharma
+Education- Diploma in Medical lab Technician
+Salary-30000Rs
+Experience-4 years
+END
+START322
+Name- Vivek Tripathi
+Education- Diploma in Medical lab Technician
+Salary-30000Rs
+Experience-5 years
+END
+START33
+Select X-RAY Technician by corresponding number:
+(1)Tejas Mehta
+(2)Pahul Sharma
+END
+START331
+Name-Tejas Mehta
+Education-Diploma in X-Ray Technologies
+Salary-15000
+Experience-1 years
+END
+START332
+Name-Pahul Sharma
+Education-Diploma in X-Ray Technologies
+Salary-15000
+Experience-2 years
+END
+START34
+Select ANM by corresponding number:
+(1)Shradhaa Singh
+(2)Aadya Verma
+END
+START341
+Name-Shradhaa Singh
+Education-Diploma in Auxiliary Nurse and Midwife
+Salary-25000Rs
+Experience-4 years
+END
+START342
+Name- Aadya Verma
+Education-Diploma in Auxiliary Nurse and Midwife
+Salary-25000Rs
+Experience-2 years
+END
+START35
+Select Staff Nurse by corresponding number:
+(1)Nisha Devi
+(2)Priya Srivastava
+END
+START351
+Name-Nisha Devi
+Education-B.Sc in Nursing
+Salary- 25000Rs
+Experience-3 years
+END
+START352
+Name-Priya Srivastava
+Education-B.Sc in Nursing
+Salary-25000Rs
+Experience-4 years
+END
+START36
+Select Dark Room Assistant by corresponding number:
+(1)Anurag Singh
+(2)Ashutosh Kumar
+END
+START361
+Name-Anurag Singh
+Education-Certification from Dark room Assistant Colleges
+Salary-10000Rs
+Experience-3 years
+END
+START362
+Name-Ashutosh Kumar
+Education-Certification from Dark room Assistant Colleges
+Salary-10000Rs
+Experience-2 years
+END
+START37
+Select dai assist gynecologist by corresponding number:
+(1)Kritika Chaturvedi
+(2)Hema Singh
+END
+START371
+Name-Kritika Chaturvedi
+Education-B.Sc in Gynecology
+Salary-20,000Rs
+Experience-4 years
+END
+START372
+Name-Hema Singh
+Education-B.Sc in Gynecology
+Salary-20,000Rs
+Experience-5 years
+END
+START4
+1)Ward boy
+2)Sweeper
+3)Ward aya
+END
+START41
+Select Ward boy by corresponding number:
+(1)Parmesh Jhamela
+(2)Ayush Sharma
+(3)Parth Singh
+(4)Mohamaad Rihan
+END
+START411
+Name-Parmesh Jhamela
+Education-Post Metric    
+Salary-5000Rs
+Experience-2 years
+END
+START412
+Name-Ayush Sharma
+Education-12th pass
+Salary-5000Rs
+Experience-3 years
+END
+START413
+Name-Parth Singh
+Education-Bsc
+Salary-5000Rs
+Experience-2 years
+END
+START414
+Name-Mohamaad Rihan
+Education-12th pass
+Salary-5000Rs
+Experience-1 year
+END
+START42
+Select Sweeper by corresponding number:
+(1)Shyam Lal
+(2)Vivek Jaiswal
+(3)Saksham Pandey
+(4)Mohit Singh
+END
+START421
+Name- Shyam Lal
+Education- 12th pass
+Salary- 10000Rs
+Experience-3 years
+END
+START422
+Name- Vivek Jaiswal
+Education- BA
+Salary- 10000Rs
+Experience-2 years
+END
+start423
+Name- Saksham Pandey
+Education- 10th pass
+Salary- 10000Rs
+Experience-2 years
+END
+start424
+Name- Mohit Singh
+Education- 12th Pass
+Salary- 10000Rs
+Experience- 1 year
+END
+START43
+Select Ward aya by corresponding number:
+(1)Kalyani Devi
+(2)Sonam Gupta
+(3)Swati Kumari
+(4)Mahima Tripathi
+END
+START431
+Name- Kalyani Devi
+Education- 10th Pass
+Salary- 5000Rs
+Experience- 5 years
+END
+START432
+Name- Sonam Gupta
+Education- 12th Pass
+Salary- 5000Rs
+Experience- 2 years
+END
+START433
+Name- Swati Kumari
+Education- Bsc
+Salary- 5000Rs
+Experience- 1 year
+END
+START434
+Name- Mahima Tripathi
+Education- 12th Pass
+Salary- 5000Rs
+Experience- 3 years
+END
